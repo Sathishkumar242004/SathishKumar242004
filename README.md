@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi 👋, I'm M. Sathish Kumar
 
-<!--
-**Sathishkumar242004/SathishKumar242004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend Developer from India 🇮🇳
 
-Here are some ideas to get you started:
+I'm an aspiring Frontend Developer passionate about building modern, responsive, and user-friendly web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 💻 Frontend Developer
+- 🌱 Currently learning **React.js**
+- 📚 Improving my JavaScript skills
+- 🎯 Looking for Frontend Developer opportunities
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Bootstrap
+- Tailwind CSS
+- Git
+- GitHub
+
+---
+
+## 📌 Featured Projects
+
+- 🌐 Portfolio Website
+- ☁️ Weather App
+- ✅ To-Do List App
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: sathishkumar242004@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/sathish-kumar-m-507074295/
+- 🌐 Portfolio: https://m-sathishkumar-portfolio.vercel.app/
