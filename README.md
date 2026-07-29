@@ -17,14 +17,9 @@ I'm an aspiring Frontend Developer passionate about building modern, responsive,
 
 ## 🛠️ Tech Stack
 
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-- Bootstrap
-- Tailwind CSS
-- Git
-- GitHub
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,git,github,vscode" />
+</p>
 
 ---
 
@@ -38,6 +33,16 @@ I'm an aspiring Frontend Developer passionate about building modern, responsive,
 
 ## 📫 Connect With Me
 
-- 📧 Email: sathishkumar242004@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/sathish-kumar-m-507074295/
-- 🌐 Portfolio: https://m-sathishkumar-portfolio.vercel.app/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sathish-kumar-m-507074295/)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://m-sathishkumar-portfolio.vercel.app/)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sathishkumar242004@gmail.com)
+  
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SathishKumar242004&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SathishKumar242004&layout=compact&theme=tokyonight)
